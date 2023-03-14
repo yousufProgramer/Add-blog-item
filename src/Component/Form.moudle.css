@@ -1,0 +1,35 @@
+.form{
+    position: relative;
+    width: 100%;
+    left: 30%;
+}
+.from-filed{
+    padding: 1rem;
+    font-size: 20px;
+    
+}
+.from-filed input,textarea{
+    padding: .5rem;
+    width: 20%;
+    margin-left: 1rem;
+    border-radius: 10px;
+}
+.name-in input{
+    margin-left: 65px;
+}
+.form-btn{
+    width: 20%;
+    text-align: center;
+    position: relative;
+    margin-left: 5rem;
+    padding: .3rem;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s all ease-in-out;
+    margin-top: 1rem;
+}
+.form-btn:hover{
+    background: orange;
+    color: aliceblue;
+}

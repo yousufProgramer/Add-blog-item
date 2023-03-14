@@ -1,0 +1,28 @@
+.todos-header{
+   display: flex;
+   justify-content: space-between;
+   padding: .5rem;
+}
+.todos-header h4{
+    font-size: 1.6rem;
+}
+.todos-header p{
+    color: aliceblue;
+    font-size: 16px;
+    font-style: italic;
+}
+.todos-btn{
+    background: rgb(63, 62, 62);
+    border: none;
+    color: aliceblue;
+}
+.icon{
+    font-size: 50px;
+   margin-right: 5px;
+   background: rgb(107, 97, 97);
+   border-radius: 2rem;
+   cursor: pointer;
+   color: red;
+   background: #000;
+
+}

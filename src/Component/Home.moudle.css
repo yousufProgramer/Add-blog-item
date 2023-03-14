@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.header{  
+    background: rgb(54, 38, 38);
+    padding: 1rem;
+    color: aliceblue;
+    height: auto;
+    overflow: hidden;
+    
+}
+.header-text{
+    color: aliceblue;
+    font-size: 2rem;
+    font-weight: 600;
+    text-align: center;
+}
